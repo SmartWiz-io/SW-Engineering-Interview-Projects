@@ -1,5 +1,7 @@
-# Mantine Vite template
+# This is the repo for Engineering Interview Projects
 
-Get started with the template by clicking `Use this template` button on the top of the page.
+## Setup Instructions
 
-[Documentation](https://mantine.dev/guides/vite/)
+1. **Clone the Repository:**
+2. **Install all dependencies**
+3. **Run the server with `npm run dev`**
